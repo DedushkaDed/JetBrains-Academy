@@ -1,0 +1,47 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems/Balance checker/out/
+/Problems/Balance checker/out/production/classes/
+/Problems/Check the sum/out/
+/Problems/Check the sum/out/production/classes/
+/Problems/City population/out/
+/Problems/City population/out/production/classes/
+/Problems/Compare Latin letters/out/
+/Problems/Compare Latin letters/out/production/classes/
+/Problems/Currency comparision/out/
+/Problems/Currency comparision/out/production/classes/
+/Problems/Division/out/
+/Problems/Division/out/production/classes/
+/Problems/Squares of natural numbers/out/
+/Problems/Squares of natural numbers/out/production/classes/
+/Problems/Strings as objects/out/
+/Problems/Strings as objects/out/production/classes/
+/Problems/The army of units/out/
+/Problems/The army of units/out/production/classes/
+/Problems/The first position of the largest element/out/
+/Problems/The first position of the largest element/out/production/classes/
+/Problems/The information about a person/out/
+/Problems/The information about a person/out/production/classes/
+/Problems/The largest element/out/
+/Problems/The largest element/out/production/classes/
+/Problems/The last digit of a number/out/
+/Problems/The last digit of a number/out/production/classes/
+/Problems/The length of the sequence/out/
+/Problems/The length of the sequence/out/production/classes/
+/Problems/The sequence 1 2 2 3 3 3/out/
+/Problems/The sequence 1 2 2 3 3 3/out/production/classes/
+/Problems/The sum of digits/out/
+/Problems/The sum of digits/out/production/classes/
+/Problems/The sum of elements/out/
+/Problems/The sum of elements/out/production/classes/
+/Problems/Triangle/out/
+/Problems/Triangle/out/production/classes/
+/Problems/We need to learn Kotlin/out/
+/Problems/We need to learn Kotlin/out/production/classes/
+/Problems/Weather comparison/out/
+/Problems/Weather comparison/out/production/classes/
+/Problems/Within both ranges/out/
+/Problems/Within both ranges/out/production/classes/
